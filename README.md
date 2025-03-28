@@ -3,11 +3,11 @@
 
 `read -p "enter a whole number: " num`
 
-![Promptfor_number](<1.0 Prompting.png>)
+![Prompt_for_number](<1.0 Prompting.png>)
 
 ## 2 . Ask if they want a full table or partial table 
 
-    `if partial,prompt the start and end numbers of the range`
+    `if partial, prompt the start and end numbers of the range`
 
 `Ask if they want F or P` 
 
@@ -23,8 +23,9 @@
 
 ![display-range](4.0.png)
 
-5. Provide clear output formatting for ease of reading. Bonus
+## 5. Provide clear output formatting for ease of reading. Bonus
 
+![Prompting_for_clear_formatting](<5.0 .png>)
 
 
 
